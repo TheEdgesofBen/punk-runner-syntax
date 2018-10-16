@@ -1,0 +1,21 @@
+{
+  "name": "punk-runner-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A Cyperpunk-like syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+    "punk runner",
+    "theedgesofben",
+    "red",
+    "green",
+    "cyberpunk",
+    "blade runner"
+  ],
+  "repository": "https://github.com/TheEdgesofBen/punk-runner-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
