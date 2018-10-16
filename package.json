@@ -13,7 +13,7 @@
     "cyberpunk",
     "blade runner"
   ],
-  "repository": "https://github.com/TheEdgesofBen/punk-runner-syntax",
+  "repository": "https://github.com/theedgesofben/punk-runner-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
