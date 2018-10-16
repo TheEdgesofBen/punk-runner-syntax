@@ -3,7 +3,7 @@
 the punk-runner-syntax theme combines green and red colors to a cyberpunk-like style.
 
 
-![IMAGE NOT FOUND!](assets/img/preview.jpg)
+![IMAGE NOT FOUND!](https://github.com/TheEdgesofBen/punk-runner-syntax/blob/master/assets/img/preview.jpg)
 HTML and Ts file in the punk-runner-syntax theme compined with edited versions of the atom-material-ui and file-icons.
 
 ## Installation
