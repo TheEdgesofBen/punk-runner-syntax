@@ -55,5 +55,5 @@ atom-material-ui edits:
 
 file-icons package edits:
 
-    ![IMAGE NOT FOUND!](assets/img/file-icons_package_edits.jpg)
+![IMAGE NOT FOUND!](assets/img/file-icons_package_edits.jpg)
     Added punk-runner-syntax colors to colours.less.
