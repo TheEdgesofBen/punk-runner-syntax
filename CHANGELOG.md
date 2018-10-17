@@ -4,3 +4,4 @@
 
 ## 0.7.1 - First Release Patch
 * Lighten editor selection to #052622
+* Readme updated

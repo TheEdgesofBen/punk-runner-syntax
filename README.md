@@ -17,3 +17,43 @@ Or directly in Atom:
 3. Search for `punk-runner-syntax` and click __Install__
 
 Once installed, open __Settings__ > __Themes__ and select __punk-runner-syntax__.
+
+## Nice to know
+
+Colors:
+
+    very-light-gray: #ffffff;
+    light-gray: #bbbbbb;
+    gray: #909090;
+    dark-gray: #505050;
+    very-dark-gray: #202020;
+
+    neonCyan: #66fffa;
+    deepGreen: #3d996b;
+    neonMintGreen: #1affa1;
+    seaWeedGreen: #010d0c;
+    seaWeedGreenLighten10: #031a17;
+    seaWeedGreenLighten15: #052622;
+    neonMintYellow: #a1ff7f;
+    neonCherryRed: #ff1a3c;
+    skinRed: #ff6565;
+    rustRed: #993d4b;
+
+atom-material-ui settings:
+
+    Primary Color: neonCherryRed
+    Secondary Color: seaWeedGreen
+
+atom-material-ui edits:
+
+    ![IMAGE NOT FOUND!](assets/img/atom-material-ui_edits.jpg)
+    Added punk-runner-syntax colors to md_colors.less.
+
+    ![IMAGE NOT FOUND!](assets/img/atom-material-ui_edits_2.jpg)
+    Added a background to the editor.
+
+
+file-icons package edits:
+
+    ![IMAGE NOT FOUND!](assets/img/file-icons_package_edits.jpg)
+    Added punk-runner-syntax colors to colours.less.
