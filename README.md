@@ -47,10 +47,10 @@ atom-material-ui settings:
 atom-material-ui edits:
 
 ![IMAGE NOT FOUND!](assets/img/atom-material-ui_edits.jpg)
-    Added punk-runner-syntax colors to md_colors.less.
+    Added a background to the editor.
 
 ![IMAGE NOT FOUND!](assets/img/atom-material-ui_edits_2.jpg)
-    Added a background to the editor.
+    Added punk-runner-syntax colors to md_colors.less.
 
 
 file-icons package edits:
