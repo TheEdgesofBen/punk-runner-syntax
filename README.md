@@ -37,7 +37,6 @@ Colors:
     neonMintYellow: #a1ff7f;
     neonCherryRed: #ff1a3c;
     skinRed: #ff6565;
-    test:
     rustRed: #993d4b;
 
 atom-material-ui settings:
