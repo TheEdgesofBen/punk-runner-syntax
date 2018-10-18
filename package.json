@@ -1,7 +1,7 @@
 {
   "name": "punk-runner-syntax",
   "theme": "syntax",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "A Cyperpunk-like syntax",
   "keywords": [
     "syntax",
